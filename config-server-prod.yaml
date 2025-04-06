@@ -1,2 +1,1 @@
-application:
-  name: User configuration Prod
+application.name=User configuration Prod
